@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(& \"C:\\\\Tools\\\\sqlcl\\\\bin\\\\sql\" -s \"apps/apps4us@pom-dr1-ebs-ddb1.wonderful.ad:1521/ebs_DPOMWI\" \"@C:\\\\Temp\\\\list_schemas.sql\")",
+      "PowerShell(& \"C:\\\\Tools\\\\sqlcl\\\\bin\\\\sql\" -version 2>&1)"
+    ]
+  }
+}
